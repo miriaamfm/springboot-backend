@@ -1,0 +1,4 @@
+com\example\cine\ProtectoFinalAngularSpringApplication.class
+com\example\cine\model\Actores.class
+com\example\cine\repository\ActoresRepository.class
+com\example\cine\controller\CineController.class
